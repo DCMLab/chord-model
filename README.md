@@ -10,6 +10,8 @@ conference paper as well as the supplementary material.
 
 ### Model specification
 
+Our proposed model represents chords as graphs, where the chord label and its position in a piece form a central node, and properties of the chord are labeled edges and attached nodes. In the following table we show the formal definition of our model as a grammar, where terminal symbols are listed in _italics_. `...` indicates that custom properties and values may be defined and added for flexibility.
+
 | Variable   | Definition                                                                                                                             |
 |------------|------------------------------------------------------------------------------------------------------------------------------------|
 | CHORD      | <POS, HARMONY>                                                                                                                     |
