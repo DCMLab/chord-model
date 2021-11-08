@@ -44,3 +44,39 @@ Our proposed model represents chords as graphs, where the chord label and its po
 | CHORDFUNC  | _Tonic_\| _Subdominant_ \| _Dominant_ \| ...                                                                                             |
 | CHORDTYPE  | _Maj_ \| _Min_ \| _Dim_ \| _Aug_ \| _MajMaj7_ \| _MajMin7_ \| _MinMaj7_ \| _MinMin7_ \| _Dim7_ \| _HalfDim7_ \| _AugMaj7_ \| _AugMin7_ \| ... \| INTERVAL* |
 | INV        | {_0_.._N_}
+
+
+## Overview of some references with harmonic features
+
+| Reference                       |             Absolute Root             | Relative Root | Bass Note | Chord Type | Chord Inversion | Chord Extension | Suspensions | Harmonic Function | Pitch Classes | Pitch-Class Sets | Key or Mode |
+|---------------------------------|:-------------------------------------:|:-------------:|:---------:|:----------:|:---------------:|:---------------:|:-----------:|:-----------------:|:-------------:|:----------------:|:-----------:|
+| Broze & Shanahan (2013)         |                   ✓                   |               |     ✓     |      ✓     |                 |        ✓        |      ✓      |                   |               |                  |             |
+| Burgoyne et al. (2011)          |                   ✓                   |               |           |      ✓     |                 |        ✓        |             |                   |               |                  |             |
+| Cambouropoulos et al. (2014)    |                                       |               |           |            |                 |                 |             |                   |       ✓       |         ✓        |      ✓      |
+| Harte (2005)                    |                   ✓                   |               |     ✓     |      ✓     |                 |        ✓        |      ✓      |                   |               |                  |             |
+| Huron (2002)                    |                                       |       ✓       |           |      ✓     |        ✓        |        ✓        |      ✓      |                   |               |                  |             |
+| Moss et al. (2020)              |                                       |       ✓       |     ✓     |      ✓     |                 |        ✓        |             |                   |               |                  |      ✓      |
+| Nápoles Lopes & Fujinaga (2020) |                                       |       ✓       |           |      ✓     |        ✓        |        ✓        |             |                   |               |                  |      ✓      |
+| Neuwirth et al. (2018)          |                                       |       ✓       |           |      ✓     |        ✓        |        ✓        |      ✓      |                   |               |                  |      ✓      |
+| Rohrmeier (2008)                |                                       |       ✓       |           |            |                 |                 |             |                   |       ✓       |         ✓        |             |
+| Rohrmeier (2011)                |                   ✓                   |       ✓       |     ✓     |      ✓     |        ✓        |        ✓        |      ✓      |         ✓         |               |                  |      ✓      |
+| Rohrmeier (2011)                |                   ✓                   |       ✓       |     ✓     |      ✓     |        ✓        |        ✓        |      ✓      |                   |               |                  |      ✓      |
+| Selway et al. (2020)            |                   ✓                   |               |           |      ✓     |                 |                 |             |         ✓         |               |                  |             |
+| Temperley (2009)                |                                       |       ✓       |           |            |                 |                 |             |                   |               |                  |             |
+| Temperley & deClerq (2013)      |                                       |       ✓       |           |            |                 |                 |             |                   |               |                  |             |
+| Tymoczko et al. (2019)          |                                       |       ✓       |           |      ✓     |        ✓        |        ✓        |             |                   |               |                  |      ✓      |
+| White & Quinn (2016)            |                                       |               |           |            |                 |                 |             |                   |       ✓       |         ✓        |      ✓      |
+|                                 | Career Development Plan               | D2            |           |            |                 |                 |             |                   |               |                  |             |
+|                                 | Research Data Management Plan         | D3            |           |            |                 |                 |             |                   |               |                  |             |
+|                                 | 1st year report                       |               |           |            | D4              |                 |             |                   |               |                  |             |
+|                                 | Final report                          |               |           |            |                 |                 |             |                   | D5            |                  |             |
+| WP5: Communication              |                                       |               |           |            |                 |                 |             |                   |               |                  |             |
+| T13                             | Expert workshop                       |               |           |            |                 |                 |             |                   |               |                  |             |
+| T14                             | Event for wider public                |               |           |            |                 |                 |             |                   |               |                  |             |
+| T15                             | Conference presentation + proceedings |               |           |            | D6              |                 |             |                   |               |                  |             |
+| T16                             | Blog posts                            |               |           |            |                 |                 |             |                   | D7            |                  |             |
+| T17                             | Scientific Article                    |               |           |            |                 |                 |             | D8                |               |                  |             |
+| Milestones                      |                                       |               | M1        |            | M2              |                 | M3          |                   |               |                  |             |
+
+
+
